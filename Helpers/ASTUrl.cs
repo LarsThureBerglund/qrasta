@@ -48,7 +48,7 @@ public class ASTUrl
         "www.exportants.com", "www.prizewings.com", "www.templatern.com",
         "www.exportants.de", "www.resetts.de", "www.windocyte.com",
         "www.exportants.es", "www.resetts.es",
-        "www.exportants.fr", "www.resetts.fr", "www.kartverket.no"
+        "www.exportants.fr", "www.resetts.fr"
     };
     
     private string _Url { get; set; }
